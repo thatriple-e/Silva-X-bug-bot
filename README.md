@@ -1,6 +1,6 @@
  
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩11ꫂ<br></h1>
+<h1 align="center">ꪶSILVA X BUG BOTꫂ<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/RC7JWDj/e258b5ae2b1cf8195d33743570dbe498.jpg" />
 </p>
