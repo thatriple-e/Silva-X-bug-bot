@@ -2,7 +2,7 @@
   "name": "Silva-X-bug-bot",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/Sylivanu/Silva-X-bug-bot",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "logo": "https://telegra.ph/file/13f767e498eade69c23de.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
